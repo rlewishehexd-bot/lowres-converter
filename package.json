@@ -1,0 +1,14 @@
+{
+  "name": "resizer",
+  "version": "1.0.0",
+  "description": "Image resizing tool",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "package": "pkg ."
+  },
+  "dependencies": {
+    "sharp": "^0.32.6"
+  }
+}
